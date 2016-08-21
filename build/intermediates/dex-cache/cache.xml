@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\StudioProjects\SpeechDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_9792d51791d92eddc0d9758885c1364396bdbf7e.jar" />
+    </item>
+    <item
+        jar="E:\StudioProjects\SpeechDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\StudioProjects\SpeechDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_cf4df8e2b9e79407c667432bf6d9b3de5953a490.jar" />
+    </item>
+    <item
+        jar="E:\StudioProjects\SpeechDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\StudioProjects\SpeechDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_59185fd42e3108fb6f3fbce472171051705008c2.jar" />
+    </item>
+    <item
+        jar="E:\StudioProjects\SpeechDemo\app\libs\Msc.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="994d12017bc2c9ba570180cde5500689d134e6e6">
+        <dex dex="E:\StudioProjects\SpeechDemo\app\build\intermediates\pre-dexed\debug\Msc_44700407d2cf47856823aa2a1c579954f7e58757.jar" />
+    </item>
+    <item
+        jar="E:\StudioProjects\SpeechDemo\app\libs\Sunflower.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7b8ebcf35299f7daeb7d54f4ac47bd1e28026740">
+        <dex dex="E:\StudioProjects\SpeechDemo\app\build\intermediates\pre-dexed\debug\Sunflower_253df7b4b8a7c1f39a897996239a17604988b707.jar" />
+    </item>
+    <item
+        jar="E:\StudioProjects\SpeechDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\StudioProjects\SpeechDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_8eba3f9bdba7142156b48872e904b624139cbc44.jar" />
+    </item>
+
+</items>
